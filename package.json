@@ -1,0 +1,24 @@
+{
+  "name": "vuex-persist-state",
+  "version": "0.1.0",
+  "description": "Automatic backup and restore of the Vuex state to the localstore.",
+  "keywords": [
+    "vuex",
+    "vue",
+    "persist",
+    "localstorage"
+  ],
+  "source": "src/index.js",
+  "main": "dist/vuex-persist-state.min.js",
+  "scripts": {
+    "build": "microbundle -f cjs",
+    "dev": "microbundle watch",
+    "lint": "eslint ./src; exit 0"
+  },
+  "author": "Corey McGeachie",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "microbundle": "^0.11.0"
+  }
+}
