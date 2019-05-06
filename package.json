@@ -2,6 +2,11 @@
   "name": "vuex-persist-state",
   "version": "0.1.0",
   "description": "Automatic backup and restore of the Vuex state to the localstore.",
+  "homepage": "https://github.com/Rkaede/vuex-persist-state",
+  "repository": {
+    "type": "git",
+    "url": "https://github:Rkaede/vuex-persist-state.git"
+  },
   "keywords": [
     "vuex",
     "vue",
