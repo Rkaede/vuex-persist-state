@@ -1,6 +1,6 @@
 {
   "name": "vuex-persist-state",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automatic backup and restore of the Vuex state to the localstore.",
   "homepage": "https://github.com/Rkaede/vuex-persist-state",
   "repository": {
@@ -23,7 +23,7 @@
   "author": "Corey McGeachie",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^5.16.0",
+    "eslint": "^6.0.1",
     "microbundle": "^0.11.0"
   }
 }
